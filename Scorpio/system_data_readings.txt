@@ -1,0 +1,111 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-TKT78GB0
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : home
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::57c:a16e:8ddc:8f49%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.48.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 285868071
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-28-87-71-10-00-DE-AB-CA-09-49
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Poˆ¥czenie lokalne* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 4A-E7-DA-90-01-43
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Poˆ¥czenie lokalne* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : CA-E7-DA-90-01-43
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : home
+   Description . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : 48-E7-DA-90-01-43
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2a01:112f:5a9:3e00:2569:a9c9:6c8a:b8b7(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2a01:112f:5a9:3e00:ec98:5943:f420:e29c(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::2569:a9c9:6c8a:b8b7%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.17(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : czwartek, 22 wrze˜nia 2022 17:41:51
+   Lease Expires . . . . . . . . . . : niedziela, 25 wrze˜nia 2022 20:47:45
+   Default Gateway . . . . . . . . . : fe80::267f:20ff:fe5b:53dd%14
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 138995674
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-28-87-71-10-00-DE-AB-CA-09-49
+   DNS Servers . . . . . . . . . . . : fe80::267f:20ff:fe5b:53dd%14
+                                       192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+   Connection-specific DNS Suffix Search List :
+                                       home
+
+Ethernet adapter Poˆ¥czenie sieciowe Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 48-E7-DA-90-01-42
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+
+
+      Usage - RAM
+Free        36.9%
+Total      23.74G
+Used        8.75G
+
+         Usage - Hard drive
+Total             475.50 GB
+Used               198.80GB
+Free               276.70GB
+Usage(%)              41.8%
+
+       Usage of every core
+Core_0               41.8%
+Core_1               34.9%
+Core_2               40.6%
+Core_3               48.4%
+Core_4               42.2%
+Core_5               36.5%
+Core_6               41.3%
+Core_7               50.8%
+
+                           iface Download   Upload Upload Speed Download Speed
+3                          Wi-Fi   2.76GB  62.88MB     4.71KB/s      632.00B/s
+0   VirtualBox Host-Only Network    0.00B    0.00B      0.00B/s        0.00B/s
+1          Po³¹czenie lokalne* 1    0.00B    0.00B      0.00B/s        0.00B/s
+2          Po³¹czenie lokalne* 2    0.00B    0.00B      0.00B/s        0.00B/s
+4  Po³¹czenie sieciowe Bluetooth    0.00B    0.00B      0.00B/s        0.00B/s
+5    Loopback Pseudo-Interface 1    0.00B    0.00B      0.00B/s        0.00B/s
